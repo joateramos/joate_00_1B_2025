@@ -1,18 +1,20 @@
-body{
-color: hotpink;
-background: lightblue;
+body {
+    color: hotpink;
+    background: lightblue;
 }
-header{
+
+header {
     border-bottom: solid 2px rgb(rgb(0, 255, 238));
     padding: 20px;
     font-size: 32px;
     color: navy;
     background: rgb(177, 141, 212);
 }
-.chamada{
-   background: black; 
-   padding-top: 100px;
-   padding-bottom: 100px;
-   display: flex;
-   justify-content: center;
+
+.chamada {
+    background: bisque;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
 }
