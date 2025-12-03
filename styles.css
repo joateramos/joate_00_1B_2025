@@ -18,3 +18,60 @@ header {
     display: flex;
     justify-content: center;
 }
+
+Pensamento Computacional - 1º Ano B Manha - Médio
+PLINIO A M TOURINHO, C E PROF-EFM PROFIS
+Links rápidos
+Meet
+Código da turma:
+dsik4ks
+Próximas atividades
+Nenhuma atividade para a próxima semana
+
+Aviso: "# styles.css body { color: blue;…"
+JOATE GRAZIANNA GELBCKE RAMOS
+Criado em: 08:4308:43 (editado: 08:44)
+# styles.css
+
+body {
+    color: blue;
+    background: darkgray;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(192, 6, 248);
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+    background: rgb(105, 67, 99);
+}
+
+.chamada {
+    background: bisque;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin: right 5%;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+img{
+    height: 100px;
+}
+.categorias_videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
